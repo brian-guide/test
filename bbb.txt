@@ -1,0 +1,5 @@
+
+提示Error：couldn't agree a key exchange algorithm
+原因：TortoiseGit版本太低，需要更新
+
+
